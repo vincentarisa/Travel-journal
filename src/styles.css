@@ -1,0 +1,34 @@
+.grey{
+    color: #918E9B;
+}
+
+.bi-geo-alt-fill{
+    color: #F55A5A;
+}
+
+.custom-nav{
+    background-color: #F55A5A;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+.custom-heading {
+    font-size: 25px;
+}
+
+.google-link{
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.google-link:hover{
+    color: #F55A5A;
+}
+
+.location-custom{
+    font-size: 17px;
+}
+
+.date-custom{
+    font-size: 14px;
+}
